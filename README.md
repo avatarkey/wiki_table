@@ -16,25 +16,14 @@ I'm training to become a Data Analyst, and this script helps me practice:
 2. **Install the required libraries:**
    ```bash
    pip install requests beautifulsoup4 pandas
-content_copy
-download
-Use code with caution.
-Markdown
 
-Run the script:
+3. **Run the script:**
 
-python wiki_table.py
-content_copy
-download
-Use code with caution.
-Bash
+   ```bash
+   python wiki_table.py
 
 Enter the Wikipedia URL when prompted.
 
 If multiple tables are found, select the one you want.
 
 The extracted table will be saved as a CSV file in a "databases" folder.
-
-content_copy
-download
-Use code with caution.
