@@ -22,8 +22,8 @@ I'm training to become a Data Analyst, and this script helps me practice:
    ```bash
    python wiki_table.py
 
-Enter the Wikipedia URL when prompted.
+4. **Enter the Wikipedia URL when prompted.**
 
-If multiple tables are found, select the one you want.
+5. **If multiple tables are found, select the one you want.**
 
-The extracted table will be saved as a CSV file in a "databases" folder.
+6. **The extracted table will be saved as a CSV file in a "databases" folder.**
